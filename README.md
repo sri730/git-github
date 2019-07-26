@@ -1,1 +1,1 @@
-# git-github This is for Beginning of git-github purpose 
+# git-github This is for Beginning purpose 
